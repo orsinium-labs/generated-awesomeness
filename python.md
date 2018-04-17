@@ -20,7 +20,6 @@
 1. [bitcoin](#bitcoin)
 1. [bittorrent](#bittorrent)
 1. [bot](#bot)
-1. [c](#c)
 1. [caffe](#caffe)
 1. [chainer](#chainer)
 1. [chatbot](#chatbot)
@@ -110,7 +109,6 @@
 1. [numpy](#numpy)
 1. [object-detection](#object-detection)
 1. [orm](#orm)
-1. [osx](#osx)
 1. [otf](#otf)
 1. [p2p](#p2p)
 1. [packaging](#packaging)
@@ -183,7 +181,7 @@
 
 ## ansible
 
-1. [ansible](https://github.com/ansible/ansible). Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications— automate in a language that approaches plain English, using SSH, with no agents to install on remote systems.
+1. [ansible](https://github.com/ansible/ansible). Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy. Avoid writing scripts or custom code to deploy and update your applications — automate in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com/ansible/
 1. [algo](https://github.com/trailofbits/algo). Set up a personal IPSEC VPN in the cloud
 1. [awx](https://github.com/ansible/awx). AWX Project
 
@@ -319,12 +317,6 @@
 1. [PokemonGo-Bot](https://github.com/PokemonGoF/PokemonGo-Bot). The Pokemon Go Bot, baking with community.
 
 
-## c
-
-1. [Pillow](https://github.com/python-pillow/Pillow). The friendly PIL fork (Python Imaging Library)
-1. [psutil](https://github.com/giampaolo/psutil). Cross-platform lib for process and system monitoring in Python
-
-
 ## caffe
 
 1. [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
@@ -361,9 +353,9 @@
 1. [gitsome](https://github.com/donnemartin/gitsome). A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 1. [click](https://github.com/pallets/click). Python composable command line utility
 1. [tqdm](https://github.com/tqdm/tqdm). A fast, extensible progress bar for Python and CLI
+1. [legit](https://github.com/kennethreitz/legit). Git for Humans, Inspired by GitHub for Mac™.
 1. [ngxtop](https://github.com/lebinh/ngxtop). Real-time metrics for nginx server
 1. [q](https://github.com/harelba/q). q - Run SQL directly on CSV or TSV files  
-1. [legit](https://github.com/kennethreitz/legit). Git for Humans, Inspired by GitHub for Mac™.
 1. [saws](https://github.com/donnemartin/saws). A supercharged AWS command line interface (CLI).
 
 
@@ -434,8 +426,8 @@
 
 1. [BossSensor](https://github.com/Hironsan/BossSensor). Hide screen when boss is approaching.
 1. [facenet](https://github.com/davidsandberg/facenet). Face recognition using Tensorflow
-1. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World). :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 1. [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Image-to-image translation in PyTorch (e.g. horse2zebra, edges2cats, and more)
+1. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World). :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 
 
 ## console
@@ -529,8 +521,8 @@
 1. [Deep-Learning-Papers-Reading-Roadmap](https://github.com/floodsung/Deep-Learning-Papers-Reading-Roadmap). Deep Learning papers reading roadmap for anyone who are eager to learn this amazing tech!
 1. [incubator-mxnet](https://github.com/apache/incubator-mxnet). Lightweight, Portable, Flexible Distributed/Mobile Deep Learning with Dynamic, Mutation-aware Dataflow Dep Scheduler; for Python, R, Julia, Scala, Go, Javascript and more
 1. [data-science-ipython-notebooks](https://github.com/donnemartin/data-science-ipython-notebooks). Data science Python notebooks: Deep learning (TensorFlow, Theano, Caffe, Keras), scikit-learn, Kaggle, big data (Spark, Hadoop MapReduce, HDFS), matplotlib, pandas, NumPy, SciPy, Python essentials, AWS, and various command lines.
-1. [pix2code](https://github.com/tonybeltramelli/pix2code). pix2code: Generating Code from a Graphical User Interface Screenshot
 1. [spaCy](https://github.com/explosion/spaCy). 💫 Industrial-strength Natural Language Processing (NLP) with Python and Cython
+1. [pix2code](https://github.com/tonybeltramelli/pix2code). pix2code: Generating Code from a Graphical User Interface Screenshot
 1. [ML-From-Scratch](https://github.com/eriklindernoren/ML-From-Scratch). Machine Learning From Scratch. Bare bones Python implementations of Machine Learning models and algorithms with a focus on transparency and accessibility. Aims to cover everything from Data Mining to Deep Learning.
 1. [tflearn](https://github.com/tflearn/tflearn). Deep learning library featuring a higher-level API for TensorFlow.
 1. [MLAlgorithms](https://github.com/rushter/MLAlgorithms). Minimal and clean examples of machine learning algorithms
@@ -540,8 +532,8 @@
 1. [BossSensor](https://github.com/Hironsan/BossSensor). Hide screen when boss is approaching.
 1. [DeepLearningFlappyBird](https://github.com/yenchenlin/DeepLearningFlappyBird). Flappy Bird hack using Deep Reinforcement Learning (Deep Q-learning).
 1. [facenet](https://github.com/davidsandberg/facenet). Face recognition using Tensorflow
-1. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World). :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 1. [pytorch-CycleGAN-and-pix2pix](https://github.com/junyanz/pytorch-CycleGAN-and-pix2pix). Image-to-image translation in PyTorch (e.g. horse2zebra, edges2cats, and more)
+1. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World). :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 1. [deepo](https://github.com/ufoym/deepo). A series of Docker images (and their generator) that allows you to quickly set up your deep learning research environment.
 1. [chainer](https://github.com/chainer/chainer). A flexible framework of neural networks for deep learning
 1. [tensorlayer](https://github.com/tensorlayer/tensorlayer). TensorLayer: A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
@@ -588,13 +580,13 @@
 ## devops
 
 1. [httpie](https://github.com/jakubroztocil/httpie). Modern command line HTTP client – user-friendly curl alternative with intuitive UI, JSON support, syntax highlighting, wget-like downloads, extensions, etc.  https://httpie.org
-1. [sentry](https://github.com/getsentry/sentry). Sentry is a cross-platform crash reporting and aggregation platform.
+1. [sentry](https://github.com/getsentry/sentry). Sentry is cross-platform application monitoring, with a focus on error reporting.
 
 
 ## django
 
 1. [django](https://github.com/django/django). The Web framework for perfectionists with deadlines.
-1. [sentry](https://github.com/getsentry/sentry). Sentry is a cross-platform crash reporting and aggregation platform.
+1. [sentry](https://github.com/getsentry/sentry). Sentry is cross-platform application monitoring, with a focus on error reporting.
 1. [Zappa](https://github.com/Miserlou/Zappa). Serverless Python
 1. [django-cms](https://github.com/divio/django-cms). The easy-to-use and developer-friendly CMS
 1. [wagtail](https://github.com/wagtail/wagtail). A Django content management system focused on flexibility and user experience
@@ -841,7 +833,6 @@
 1. [musicbox](https://github.com/darknessomi/musicbox). 网易云音乐命令行版本
 1. [ajenti](https://github.com/ajenti/ajenti). Ajenti Core and stock plugins
 1. [saws](https://github.com/donnemartin/saws). A supercharged AWS command line interface (CLI).
-1. [psutil](https://github.com/giampaolo/psutil). Cross-platform lib for process and system monitoring in Python
 
 
 ## machine-learning
@@ -894,10 +885,9 @@
 
 ## monitoring
 
-1. [sentry](https://github.com/getsentry/sentry). Sentry is a cross-platform crash reporting and aggregation platform.
+1. [sentry](https://github.com/getsentry/sentry). Sentry is cross-platform application monitoring, with a focus on error reporting.
 1. [glances](https://github.com/nicolargo/glances). Glances an Eye on your system. A top/htop alternative.
 1. [ngxtop](https://github.com/lebinh/ngxtop). Real-time metrics for nginx server
-1. [psutil](https://github.com/giampaolo/psutil). Cross-platform lib for process and system monitoring in Python
 
 
 ## mqtt
@@ -944,8 +934,8 @@
 1. [have-fun-with-machine-learning](https://github.com/humphd/have-fun-with-machine-learning). An absolute beginner's guide to Machine Learning and Image Classification with Neural Networks
 1. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World). :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 1. [chainer](https://github.com/chainer/chainer). A flexible framework of neural networks for deep learning
-1. [tensorlayer](https://github.com/tensorlayer/tensorlayer). TensorLayer: A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
 1. [seq2seq](https://github.com/google/seq2seq). A general-purpose encoder-decoder framework for Tensorflow
+1. [tensorlayer](https://github.com/tensorlayer/tensorlayer). TensorLayer: A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
 
 
 ## neural-networks
@@ -1001,12 +991,6 @@
 
 1. [django](https://github.com/django/django). The Web framework for perfectionists with deadlines.
 1. [records](https://github.com/kennethreitz/records). SQL for Humans™
-
-
-## osx
-
-1. [macOS-Security-and-Privacy-Guide](https://github.com/drduh/macOS-Security-and-Privacy-Guide). A practical guide to securing macOS.
-1. [psutil](https://github.com/giampaolo/psutil). Cross-platform lib for process and system monitoring in Python
 
 
 ## otf
@@ -1209,8 +1193,8 @@
 1. [facenet](https://github.com/davidsandberg/facenet). Face recognition using Tensorflow
 1. [TensorFlow-World](https://github.com/astorfi/TensorFlow-World). :earth_americas: Simple and ready-to-use tutorials for TensorFlow
 1. [deepo](https://github.com/ufoym/deepo). A series of Docker images (and their generator) that allows you to quickly set up your deep learning research environment.
-1. [tensorlayer](https://github.com/tensorlayer/tensorlayer). TensorLayer: A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
 1. [seq2seq](https://github.com/google/seq2seq). A general-purpose encoder-decoder framework for Tensorflow
+1. [tensorlayer](https://github.com/tensorlayer/tensorlayer). TensorLayer: A Deep Learning and Reinforcement Learning Library for Researchers and Engineers.
 
 
 ## terminal
@@ -1326,7 +1310,6 @@
 1. [kivy](https://github.com/kivy/kivy). Open source UI framework written in Python, running on Windows, Linux, macOS, Android and iOS
 1. [gitsome](https://github.com/donnemartin/gitsome). A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
 1. [saws](https://github.com/donnemartin/saws). A supercharged AWS command line interface (CLI).
-1. [psutil](https://github.com/giampaolo/psutil). Cross-platform lib for process and system monitoring in Python
 
 
 ## wsgi

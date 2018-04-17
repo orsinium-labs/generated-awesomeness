@@ -22,8 +22,6 @@
 1. [computer-vision](#computer-vision)
 1. [conemu](#conemu)
 1. [cplusplus](#cplusplus)
-1. [cpp](#cpp)
-1. [cpp11](#cpp11)
 1. [cross-platform](#cross-platform)
 1. [cryptocurrency](#cryptocurrency)
 1. [d3d11](#d3d11)
@@ -157,7 +155,7 @@
 
 1. [AndFix](https://github.com/alibaba/AndFix). AndFix is a library that offer hot-fix for Android App.
 1. [openFrameworks](https://github.com/openframeworks/openFrameworks). openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
-1. [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
+1. [paddle-mobile](https://github.com/PaddlePaddle/paddle-mobile). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
 1. [Xposed](https://github.com/rovo89/Xposed). The native part of the Xposed framework (mainly the modified app_process binary).
 1. [ncnn](https://github.com/Tencent/ncnn). ncnn is a high-performance neural network inference framework optimized for the mobile platform
 1. [assimp](https://github.com/assimp/assimp). Official Open Asset Import Library Repository. Loads 40+ 3D file formats into one unified and clean data structure. 
@@ -176,7 +174,7 @@
 ## arm
 
 1. [citra](https://github.com/citra-emu/citra). A Nintendo 3DS Emulator
-1. [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
+1. [paddle-mobile](https://github.com/PaddlePaddle/paddle-mobile). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
 
 
 ## artificial-intelligence
@@ -216,7 +214,7 @@
 
 ## blockchain
 
-1. [solidity](https://github.com/ethereum/solidity). The Solidity Contract-Oriented Programming Language
+1. [solidity](https://github.com/ethereum/solidity). Solidity, the Contract-Oriented Programming Language
 1. [rippled](https://github.com/ripple/rippled). Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
 
 
@@ -248,16 +246,16 @@
 1. [tinyrenderer](https://github.com/ssloy/tinyrenderer). Support c++ code for a short computer graphics course
 1. [yuzu](https://github.com/yuzu-emu/yuzu). Nintendo Switch Emulator
 1. [SFML](https://github.com/SFML/SFML). Simple and Fast Multimedia Library
-1. [blackbird](https://github.com/butor/blackbird). Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 1. [crow](https://github.com/ipkn/crow). Crow is very fast and easy to use C++ micro web framework (inspired by Python Flask)
+1. [blackbird](https://github.com/butor/blackbird). Blackbird Bitcoin Arbitrage: a long/short market-neutral strategy
 1. [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn). header only, dependency-free deep learning framework in C++14
 1. [scylla](https://github.com/scylladb/scylla). NoSQL data store using the seastar framework, compatible with Apache Cassandra
 1. [citra](https://github.com/citra-emu/citra). A Nintendo 3DS Emulator
 1. [fmt](https://github.com/fmtlib/fmt). A modern formatting library
 1. [seastar](https://github.com/scylladb/seastar). High performance server-side application framework
 1. [annoy](https://github.com/spotify/annoy). Approximate Nearest Neighbors in C++/Python optimized for memory usage and loading/saving to disk
-1. [minetest](https://github.com/minetest/minetest). Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
 1. [kakoune](https://github.com/mawww/kakoune). mawww's experiment for a better code editor
+1. [minetest](https://github.com/minetest/minetest). Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
 1. [EASTL](https://github.com/electronicarts/EASTL). EASTL stands for Electronic Arts Standard Template Library.  It is an extensive and robust implementation that has an emphasis on high performance.
 1. [assimp](https://github.com/assimp/assimp). Official Open Asset Import Library Repository. Loads 40+ 3D file formats into one unified and clean data structure. 
 1. [ricochet](https://github.com/ricochet-im/ricochet). Anonymous peer-to-peer instant messaging
@@ -266,14 +264,14 @@
 1. [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native). Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
 1. [pcl](https://github.com/PointCloudLibrary/pcl). Point Cloud Library (PCL)
 1. [GamePlay](https://github.com/gameplay3d/GamePlay). Open-source, cross-platform, C++ game engine for creating 2D/3D games.
-1. [osrm-backend](https://github.com/Project-OSRM/osrm-backend). Open Source Routing Machine - C++ backend
 1. [BansheeEngine](https://github.com/BearishSun/BansheeEngine). Modern C++14 game engine with Vulkan support, fully featured editor and C# scripting
+1. [osrm-backend](https://github.com/Project-OSRM/osrm-backend). Open Source Routing Machine - C++ backend
 1. [cuberite](https://github.com/cuberite/cuberite). A lightweight, fast and extensible game server for Minecraft
 1. [Urho3D](https://github.com/urho3d/Urho3D). Cross-platform 2D and 3D game engine.
 1. [mlpack](https://github.com/mlpack/mlpack). mlpack: a scalable C++ machine learning library -- 
 1. [fswatch](https://github.com/emcrisostomo/fswatch). A cross-platform file change monitor with multiple backends: Apple OS X File System Events, *BSD kqueue, Solaris/Illumos File Events Notification, Linux inotify, Microsoft Windows and a stat()-based backend.
-1. [shogun](https://github.com/shogun-toolbox/shogun). Shōgun
 1. [arrayfire](https://github.com/arrayfire/arrayfire). ArrayFire: a general purpose GPU library.
+1. [shogun](https://github.com/shogun-toolbox/shogun). Shōgun
 1. [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures). 180+ Algorithm & Data Structure Problems using C++
 1. [mapnik](https://github.com/mapnik/mapnik). Mapnik is an open source toolkit for developing mapping applications
 1. [conky](https://github.com/brndnmtthws/conky). Light-weight system monitor for X.
@@ -340,35 +338,6 @@
 
 1. [rippled](https://github.com/ripple/rippled). Decentralized cryptocurrency blockchain daemon implementing the XRP Ledger in C++
 1. [AtomicGameEngine](https://github.com/AtomicGameEngine/AtomicGameEngine). The Atomic Game Engine is a multi-platform 2D and 3D engine with a consistent API in C++, C#, JavaScript, and TypeScript
-
-
-## cpp
-
-1. [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
-1. [tinyrenderer](https://github.com/ssloy/tinyrenderer). Support c++ code for a short computer graphics course
-1. [solidity](https://github.com/ethereum/solidity). The Solidity Contract-Oriented Programming Language
-1. [yuzu](https://github.com/yuzu-emu/yuzu). Nintendo Switch Emulator
-1. [dolphin](https://github.com/dolphin-emu/dolphin). Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.
-1. [citra](https://github.com/citra-emu/citra). A Nintendo 3DS Emulator
-1. [BackgroundMusic](https://github.com/kyleneideck/BackgroundMusic). Background Music, a macOS audio utility: automatically pause your music, set individual apps' volumes and record system audio.
-1. [cpp-ethereum](https://github.com/ethereum/cpp-ethereum). Ethereum C++ client
-1. [cpprestsdk](https://github.com/Microsoft/cpprestsdk). The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-1. [MuseScore](https://github.com/musescore/MuseScore). MuseScore is an open source and free music notation software. For support, contribution, bug reports, visit MuseScore.org. Fork and make pull requests!
-1. [pcl](https://github.com/PointCloudLibrary/pcl). Point Cloud Library (PCL)
-1. [osrm-backend](https://github.com/Project-OSRM/osrm-backend). Open Source Routing Machine - C++ backend
-1. [pcsx2](https://github.com/PCSX2/pcsx2). PCSX2 - The Playstation 2 Emulator
-1. [arrayfire](https://github.com/arrayfire/arrayfire). ArrayFire: a general purpose GPU library.
-1. [algorithms_and_data_structures](https://github.com/mandliya/algorithms_and_data_structures). 180+ Algorithm & Data Structure Problems using C++
-
-
-## cpp11
-
-1. [aria2](https://github.com/aria2/aria2). aria2 is a lightweight multi-protocol & multi-source, cross platform download utility operated in command-line. It supports HTTP/HTTPS, FTP, SFTP, BitTorrent and Metalink.
-1. [Catch2](https://github.com/catchorg/Catch2). A modern, C++-native, header-only, test framework for unit-tests, TDD and BDD - using C++11, C++14, C++17 and later (or C++03 on the Catch1.x branch)
-1. [openpose](https://github.com/CMU-Perceptual-Computing-Lab/openpose). OpenPose: Real-time multi-person keypoint detection library for body, face, and hands estimation
-1. [minetest](https://github.com/minetest/minetest). Minetest, an open source infinite-world block sandbox game engine with support for survival and crafting. Also see https://github.com/minetest/minetest_game
-1. [cpprestsdk](https://github.com/Microsoft/cpprestsdk). The C++ REST SDK is a Microsoft project for cloud-based client-server communication in native code using a modern asynchronous C++ API design. This project aims to help C++ developers connect to and interact with services.
-1. [nghttp2](https://github.com/nghttp2/nghttp2). nghttp2 - HTTP/2 C Library and tools
 
 
 ## cross-platform
@@ -444,7 +413,7 @@
 1. [turicreate](https://github.com/apple/turicreate). Turi Create simplifies the development of custom machine learning models.
 1. [dlib](https://github.com/davisking/dlib). A toolkit for making real world machine learning and data analysis applications in C++
 1. [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn). header only, dependency-free deep learning framework in C++14
-1. [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
+1. [paddle-mobile](https://github.com/PaddlePaddle/paddle-mobile). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
 1. [ncnn](https://github.com/Tencent/ncnn). ncnn is a high-performance neural network inference framework optimized for the mobile platform
 1. [mlpack](https://github.com/mlpack/mlpack). mlpack: a scalable C++ machine learning library -- 
 1. [horovod](https://github.com/uber/horovod). Distributed training framework for TensorFlow.
@@ -535,7 +504,7 @@
 
 ## ethereum
 
-1. [solidity](https://github.com/ethereum/solidity). The Solidity Contract-Oriented Programming Language
+1. [solidity](https://github.com/ethereum/solidity). Solidity, the Contract-Oriented Programming Language
 1. [cpp-ethereum](https://github.com/ethereum/cpp-ethereum). Ethereum C++ client
 
 
@@ -672,7 +641,7 @@
 
 1. [openFrameworks](https://github.com/openframeworks/openFrameworks). openFrameworks is a community-developed cross platform toolkit for creative coding in C++.
 1. [AudioKit](https://github.com/AudioKit/AudioKit). Swift audio synthesis, processing, & analysis platform for iOS, macOS and tvOS
-1. [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
+1. [paddle-mobile](https://github.com/PaddlePaddle/paddle-mobile). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
 1. [ncnn](https://github.com/Tencent/ncnn). ncnn is a high-performance neural network inference framework optimized for the mobile platform
 1. [Provenance](https://github.com/Provenance-Emu/Provenance). An iOS/tvOS Frontend for multiple emulators, currently supporting various Sega, Nintendo, Atari, Sony, NEC, SNK and Bandai systems. Get Started:  https://git.io/vxA4Q  | 
 1. [mapbox-gl-native](https://github.com/mapbox/mapbox-gl-native). Interactive, thoroughly customizable maps in native Android, iOS, macOS, Node.js, and Qt applications, powered by vector tiles and OpenGL
@@ -848,7 +817,7 @@
 1. [CNTK](https://github.com/Microsoft/CNTK). Microsoft Cognitive Toolkit (CNTK), an open source deep-learning toolkit
 1. [pytorch](https://github.com/pytorch/pytorch). Tensors and Dynamic neural networks in Python  with strong GPU acceleration
 1. [tiny-dnn](https://github.com/tiny-dnn/tiny-dnn). header only, dependency-free deep learning framework in C++14
-1. [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
+1. [paddle-mobile](https://github.com/PaddlePaddle/paddle-mobile). This research aims at simply deploying CNN(Convolutional Neural Network) on mobile devices, with low complexity and high speed. 
 
 
 ## nodejs

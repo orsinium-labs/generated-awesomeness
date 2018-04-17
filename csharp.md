@@ -17,7 +17,6 @@
 1. [bmp](#bmp)
 1. [bot](#bot)
 1. [bridge](#bridge)
-1. [c-sharp](#c-sharp)
 1. [cache](#cache)
 1. [cms](#cms)
 1. [concurrency](#concurrency)
@@ -26,7 +25,6 @@
 1. [couchpotato](#couchpotato)
 1. [cqrs](#cqrs)
 1. [cross-platform](#cross-platform)
-1. [csharp](#csharp)
 1. [database](#database)
 1. [ddd](#ddd)
 1. [design](#design)
@@ -299,92 +297,6 @@
 1. [CppSharp](https://github.com/mono/CppSharp). Tools and libraries to glue C/C++ APIs to high-level languages
 
 
-## c-sharp
-
-1. [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows). If you want to keep a secret, you must also hide it from yourself.
-1. [CodeHub](https://github.com/CodeHubApp/CodeHub). CodeHub is an iOS application written using Xamarin
-1. [coreclr](https://github.com/dotnet/coreclr). This repo contains the .NET Core runtime, called CoreCLR, and the base library, called System.Private.Corelib (or mscorlib). It includes the garbage collector, JIT compiler, base .NET data types and many low-level classes. We welcome contributions.
-1. [WaveFunctionCollapse](https://github.com/mxgmn/WaveFunctionCollapse). Bitmap & tilemap generation from a single example with the help of ideas from quantum mechanics.
-1. [SignalR](https://github.com/SignalR/SignalR). Incredibly simple real-time web for .NET
-1. [Nancy](https://github.com/NancyFx/Nancy). Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
-1. [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore). Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology
-1. [Newtonsoft.Json](https://github.com/JamesNK/Newtonsoft.Json). Json.NET is a popular high-performance JSON framework for .NET
-1. [OpenRA](https://github.com/OpenRA/OpenRA). Open Source real-time strategy game engine for early Westwood games such as Command & Conquer: Red Alert written in C# using SDL and OpenGL. Runs on Windows, Linux, *BSD and Mac OS X.
-1. [MahApps.Metro](https://github.com/MahApps/MahApps.Metro). A toolkit for creating Metro / Modern UI styled WPF apps.
-1. [MaterialDesignInXamlToolkit](https://github.com/ButchersBoy/MaterialDesignInXamlToolkit). Google's Material Design in XAML & WPF, for C# & VB.Net. 
-1. [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate). ASP.NET Boilerplate - Web Application Framework
-1. [CefSharp](https://github.com/cefsharp/CefSharp). .NET (WPF and Windows Forms) bindings for the Chromium Embedded Framework
-1. [ServiceStack](https://github.com/ServiceStack/ServiceStack). Thoughtfully architected, obscenely fast, thoroughly enjoyable web services for all
-1. [Avalonia](https://github.com/AvaloniaUI/Avalonia). A multi-platform .NET UI framework
-1. [choco](https://github.com/chocolatey/choco). Chocolatey - the package manager for Windows
-1. [Hearthstone-Deck-Tracker](https://github.com/HearthSim/Hearthstone-Deck-Tracker). A deck tracker and deck manager for Hearthstone on Windows
-1. [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK). 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
-1. [BenchmarkDotNet](https://github.com/dotnet/BenchmarkDotNet). Powerful .NET library for benchmarking
-1. [duplicati](https://github.com/duplicati/duplicati). Store securely encrypted backups in the cloud!
-1. [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis). General purpose redis client
-1. [framework](https://github.com/accord-net/framework). Machine learning, computer vision, statistics and general scientific computing for .NET
-1. [VsVim](https://github.com/jaredpar/VsVim). Vim Emulator Plugin for Visual Studio 2012+ 
-1. [MvvmCross](https://github.com/MvvmCross/MvvmCross). The .NET MVVM framework for cross-platform solutions, including Xamarin.iOS, Xamarin.Android, Windows and Mac.
-1. [ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm). C# application that allows you to farm steam cards using multiple steam accounts simultaneously.
-1. [quartznet](https://github.com/quartznet/quartznet). Quartz Enterprise Scheduler .NET
-1. [UniRx](https://github.com/neuecc/UniRx). Reactive Extensions for Unity
-1. [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp). Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
-1. [Prism](https://github.com/PrismLibrary/Prism). Prism is a framework for building loosely coupled, maintainable, and testable XAML applications in WPF, Windows 10 UWP, and Xamarin Forms.
-1. [monodevelop](https://github.com/mono/monodevelop). MonoDevelop is a cross platform IDE mostly aimed at Mono/.NET developers
-1. [Autofac](https://github.com/autofac/Autofac). An addictive .NET IoC container
-1. [AngleSharp](https://github.com/AngleSharp/AngleSharp). :angel: The ultimate angle brackets parser library parsing HTML5, MathML, SVG and CSS to construct a DOM based on the official W3C specifications.
-1. [language-ext](https://github.com/louthy/language-ext). C# functional language extensions - a base class library for functional programming
-1. [ravendb](https://github.com/ravendb/ravendb). ACID Document Database
-1. [MailKit](https://github.com/jstedfast/MailKit). A cross-platform .NET library for IMAP, POP3, and SMTP.
-1. [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor). :camera: A fluent wrapper around System.Drawing for the processing of image files.
-1. [ImageSharp](https://github.com/SixLabors/ImageSharp). :camera: A cross-platform library for the processing of image files; written in C#
-1. [elasticsearch-net](https://github.com/elastic/elasticsearch-net). Elasticsearch.Net & NEST
-1. [TensorFlowSharp](https://github.com/migueldeicaza/TensorFlowSharp). TensorFlow API for .NET languages
-1. [cake](https://github.com/cake-build/cake). Cake (C# Make) is a cross platform build automation system.
-1. [Borderless-Gaming](https://github.com/Codeusa/Borderless-Gaming). Play your favorite games in a borderless window; no more time consuming alt-tabs. 
-1. [rant](https://github.com/TheBerkin/rant). Rant – The all-purpose procedural text generation library
-1. [OrchardCore](https://github.com/OrchardCMS/OrchardCore). Orchard Core is an open-source modular and extensible application framework built with ASP.NET Core, and a content management system (CMS) built on top of that application framework.
-1. [Lean](https://github.com/QuantConnect/Lean). Lean Algorithmic Trading Engine by QuantConnect (C#, Python, F#)
-1. [ServiceStack.Redis](https://github.com/ServiceStack/ServiceStack.Redis). .NET's leading C# Redis Client
-1. [Caliburn.Micro](https://github.com/Caliburn-Micro/Caliburn.Micro). A small, yet powerful framework, designed for building applications across all XAML platforms. Its strong support for MV* patterns will enable you to build your solution quickly, without the need to sacrifice code quality or testability.
-1. [QuasarRAT](https://github.com/quasar/QuasarRAT). Remote Administration Tool for Windows
-1. [MassTransit](https://github.com/MassTransit/MassTransit). Distributed Application Framework for .NET
-1. [fluent-nhibernate](https://github.com/FluentNHibernate/fluent-nhibernate). Fluent NHibernate!
-1. [PnP](https://github.com/SharePoint/PnP). SharePoint / Office 365 Developer Patterns and Practices
-1. [StockSharp](https://github.com/StockSharp/StockSharp). Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, bitcoins and options).
-1. [nhibernate-core](https://github.com/nhibernate/nhibernate-core). NHibernate Object Relational Mapper
-1. [Template10](https://github.com/Windows-XAML/Template10). Making Windows 10 apps great again
-1. [Bridge](https://github.com/bridgedotnet/Bridge). :spades: C# to JavaScript compiler. Write modern mobile and web apps in C#. Run them anywhere in JavaScript with Bridge.NET.
-1. [MaterialSkin](https://github.com/IgnaceMaes/MaterialSkin). Theming .NET WinForms, C# or VB.Net, to Google's Material Design Principles.
-1. [nunit](https://github.com/nunit/nunit). NUnit 3.0 Framework
-1. [git-tfs](https://github.com/git-tfs/git-tfs). A Git/TFS bridge, similar to git-svn
-1. [Bonobo-Git-Server](https://github.com/jakubgarfield/Bonobo-Git-Server). Bonobo Git Server for Windows is a web application you can install on your IIS and easily manage and connect to your git repositories. Go to homepage for release and more info.
-1. [NServiceBus](https://github.com/Particular/NServiceBus). The most popular service bus for .NET
-1. [oxyplot](https://github.com/oxyplot/oxyplot). A plotting library for .NET
-1. [npgsql](https://github.com/npgsql/npgsql). Npgsql is the .NET data provider for PostgreSQL.
-1. [SteamKit](https://github.com/SteamRE/SteamKit). SteamKit2 is a .NET library designed to interoperate with Valve's Steam network. It aims to provide a simple, yet extensible, interface to perform various actions on the network.
-1. [Templates](https://github.com/ASP-NET-Core-Boilerplate/Templates). Professional ASP.NET Core project templates for building secure, fast, robust and adaptable web applications or sites. It provides the minimum amount of code required on top of the default ASP.NET Core project template provided by Microsoft.
-1. [Exceptionless](https://github.com/exceptionless/Exceptionless). Exceptionless server and jobs
-1. [ZeroFormatter](https://github.com/neuecc/ZeroFormatter). Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity.
-1. [AsyncEx](https://github.com/StephenCleary/AsyncEx). A helper library for async/await.
-1. [cecil](https://github.com/jbevain/cecil). Cecil is a library to inspect, modify and generate .NET programs and libraries.
-1. [ServiceStack.OrmLite](https://github.com/ServiceStack/ServiceStack.OrmLite). Fast, Simple, Typed ORM for .NET
-1. [pythonnet](https://github.com/pythonnet/pythonnet). Python for .NET is a package that gives Python programmers nearly seamless integration with the .NET Common Language Runtime (CLR) and provides a powerful application scripting tool for .NET developers.
-1. [azure-sdk-for-net](https://github.com/Azure/azure-sdk-for-net). Azure Tools for Visual Studio
-1. [SmartStoreNET](https://github.com/smartstoreag/SmartStoreNET). Open Source ASP.NET MVC Ecommerce Shopping Cart Solution
-1. [corefxlab](https://github.com/dotnet/corefxlab). This repo is for experimentation and exploring new ideas that may or may not make it into the main corefx repo.
-1. [fluentassertions](https://github.com/fluentassertions/fluentassertions). Fluent API for asserting the results of unit tests that targets .NET Framework 4.5, 4.7, .NET Standard 1.3, 1.6 and 2.0. Supports the unit test frameworks MSTest, MSTest2, Gallio, NUnit, XUnit, MBunit, MSpec, and NSpec.
-1. [CppSharp](https://github.com/mono/CppSharp). Tools and libraries to glue C/C++ APIs to high-level languages
-1. [VisualStudio](https://github.com/github/VisualStudio). GitHub Extension for Visual Studio
-1. [Bogus](https://github.com/bchavez/Bogus). :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
-1. [opencvsharp](https://github.com/shimat/opencvsharp). .NET Framework wrapper for OpenCV 
-1. [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp). Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
-1. [LOIC](https://github.com/NewEraCracker/LOIC). Low Orbit Ion Cannon - An open source network stress tool, written in C#. Based on Praetox's LOIC project. USE ON YOUR OWN RISK. WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES.
-1. [CacheManager](https://github.com/MichaCo/CacheManager). CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
-1. [NSubstitute](https://github.com/nsubstitute/NSubstitute). A friendly substitute for .NET mocking libraries.
-1. [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET). Steamworks wrapper for Unity / C#
-
-
 ## cache
 
 1. [WeiXinMPSDK](https://github.com/JeffreySu/WeiXinMPSDK). 微信公众平台SDK Senparc.Weixin for C#，支持.NET Framework及.NET Core。已支持微信公众号、小程序、小游戏、企业号、企业微信、开放平台、微信支付、JSSDK、微信周边等全平台。 WeChat SDK for C#.
@@ -436,36 +348,12 @@
 1. [SimplCommerce](https://github.com/simplcommerce/SimplCommerce). A simple, cross platform, modularized ecommerce system built on .NET Core
 
 
-## csharp
-
-1. [corefx](https://github.com/dotnet/corefx). This repo contains the .NET Core foundational libraries, called CoreFX. It includes classes for collections, file systems, console, XML, async and many others. We welcome contributions.
-1. [roslyn](https://github.com/dotnet/roslyn). The .NET Compiler Platform ("Roslyn") provides open-source C# and Visual Basic compilers with rich code analysis APIs.
-1. [ShareX](https://github.com/ShareX/ShareX). ShareX is a free and open source program that lets you capture or record any area of your screen and share it with a single press of a key. It also allows uploading images, text or other types of files to over 80 supported destinations you can choose from.
-1. [mono](https://github.com/mono/mono). Mono open source ECMA CLI, C# and .NET implementation.
-1. [MonoGame](https://github.com/MonoGame/MonoGame). One framework for creating powerful cross-platform games.
-1. [BotBuilder](https://github.com/Microsoft/BotBuilder). The Microsoft Bot Builder SDK is one of three main components of the Microsoft Bot Framework.  The Microsoft Bot Framework provides just what you need to build and connect intelligent bots that interact naturally wherever your users are talking, from text/SMS to Skype, Slack, Office 365 mail and other popular services.
-1. [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core). :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
-1. [ReactiveUI](https://github.com/reactiveui/ReactiveUI). An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
-1. [ArchiSteamFarm](https://github.com/JustArchi/ArchiSteamFarm). C# application that allows you to farm steam cards using multiple steam accounts simultaneously.
-1. [Umbraco-CMS](https://github.com/umbraco/Umbraco-CMS). The simple, flexible and friendly ASP.NET CMS used by more than 400.000 websites
-1. [UWPCommunityToolkit](https://github.com/Microsoft/UWPCommunityToolkit). The UWP Community Toolkit is a collection of helper functions, custom controls, and app services. It simplifies and demonstrates common developer tasks building UWP apps for Windows 10. The toolkit is part of the .NET Foundation.
-1. [rant](https://github.com/TheBerkin/rant). Rant – The all-purpose procedural text generation library
-1. [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms). A C# plug-and-play class-library project of standard Data Structures and Algorithms.
-1. [mathnet-numerics](https://github.com/mathnet/mathnet-numerics). Math.NET Numerics
-1. [core](https://github.com/bitwarden/core). The core infrastructure backend (API, database, Docker, etc).
-1. [Bridge](https://github.com/bridgedotnet/Bridge). :spades: C# to JavaScript compiler. Write modern mobile and web apps in C#. Run them anywhere in JavaScript with Bridge.NET.
-1. [NSwag](https://github.com/RSuter/NSwag). The Swagger/OpenAPI toolchain for .NET, Web API and TypeScript. 
-1. [SimplCommerce](https://github.com/simplcommerce/SimplCommerce). A simple, cross platform, modularized ecommerce system built on .NET Core
-1. [gui.cs](https://github.com/migueldeicaza/gui.cs). Console-based user interface toolkit for .NET applications.
-1. [Bogus](https://github.com/bchavez/Bogus). :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
-1. [WindowsTemplateStudio](https://github.com/Microsoft/WindowsTemplateStudio). Windows Template Studio quickly builds a UWP app, using a wizard-based UI to turn your needs into a foundation of Windows 10 patterns and best practices.
-
-
 ## database
 
 1. [EntityFrameworkCore](https://github.com/aspnet/EntityFrameworkCore). Entity Framework Core is a lightweight and extensible version of the popular Entity Framework data access technology
 1. [EventStore](https://github.com/EventStore/EventStore). The open-source, functional database with Complex Event Processing in JavaScript.
 1. [ravendb](https://github.com/ravendb/ravendb). ACID Document Database
+1. [fluentmigrator](https://github.com/fluentmigrator/fluentmigrator). Fluent migrations framework for .NET
 1. [npgsql](https://github.com/npgsql/npgsql). Npgsql is the .NET data provider for PostgreSQL.
 1. [Bogus](https://github.com/bchavez/Bogus). :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 
@@ -509,8 +397,8 @@
 1. [mono](https://github.com/mono/mono). Mono open source ECMA CLI, C# and .NET implementation.
 1. [Nancy](https://github.com/NancyFx/Nancy). Lightweight, low-ceremony, framework for building HTTP based services on .Net and Mono
 1. [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate). ASP.NET Boilerplate - Web Application Framework
-1. [react-native-windows](https://github.com/Microsoft/react-native-windows). A framework for building native UWP and WPF apps with React.
 1. [Polly](https://github.com/App-vNext/Polly). Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. Polly targets .NET 4.0, .NET 4.5 and .NET Standard 1.1.
+1. [react-native-windows](https://github.com/Microsoft/react-native-windows). A framework for building native UWP and WPF apps with React.
 1. [ReactiveUI](https://github.com/reactiveui/ReactiveUI). An advanced, composable, functional reactive model-view-viewmodel framework for all .NET platforms that is inspired by functional reactive programming. ReactiveUI allows you to  abstract mutable state away from your user interfaces, express the idea around a feature in one readable place and improve the testability of your application.
 1. [Hangfire](https://github.com/HangfireIO/Hangfire). An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 1. [Opserver](https://github.com/opserver/Opserver). Stack Exchange's Monitoring System
@@ -540,8 +428,8 @@
 1. [CppSharp](https://github.com/mono/CppSharp). Tools and libraries to glue C/C++ APIs to high-level languages
 1. [Bogus](https://github.com/bchavez/Bogus). :card_index: A simple and sane fake data generator for C#, F#, and VB.NET. Based on and ported from the famed faker.js.
 1. [opencvsharp](https://github.com/shimat/opencvsharp). .NET Framework wrapper for OpenCV 
-1. [NSubstitute](https://github.com/nsubstitute/NSubstitute). A friendly substitute for .NET mocking libraries.
 1. [CacheManager](https://github.com/MichaCo/CacheManager). CacheManager is an open source caching abstraction layer for .NET written in C#. It supports various cache providers and implements many advanced features.
+1. [NSubstitute](https://github.com/nsubstitute/NSubstitute). A friendly substitute for .NET mocking libraries.
 1. [ACMESharp](https://github.com/ebekker/ACMESharp). An ACME client library and PowerShell client for the .NET platform (Let's Encrypt)
 1. [MoreLINQ](https://github.com/morelinq/MoreLINQ). Extensions to LINQ to Objects
 
@@ -689,12 +577,14 @@
 1. [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp). Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 1. [rant](https://github.com/TheBerkin/rant). Rant – The all-purpose procedural text generation library
 1. [NoahGameFrame](https://github.com/ketoo/NoahGameFrame). A fast, scalable, distributed game server framework for C++, include actor library, network library,can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
+1. [ET](https://github.com/egametang/ET). Unity3D Client And C# Server Framework
 
 
 ## game-engine
 
 1. [Entitas-CSharp](https://github.com/sschmid/Entitas-CSharp). Entitas is a super fast Entity Component System (ECS) Framework specifically made for C# and Unity
 1. [NoahGameFrame](https://github.com/ketoo/NoahGameFrame). A fast, scalable, distributed game server framework for C++, include actor library, network library,can be used as a  real time multiplayer game engine ( MMO RPG/MOBA ), which support C#/Lua script/ Unity3d, Cocos2dx and plan to support Unreal.
+1. [ET](https://github.com/egametang/ET). Unity3D Client And C# Server Framework
 
 
 ## gamedev
@@ -940,6 +830,7 @@
 1. [Autofac](https://github.com/autofac/Autofac). An addictive .NET IoC container
 1. [ImageSharp](https://github.com/SixLabors/ImageSharp). :camera: A cross-platform library for the processing of image files; written in C#
 1. [SimplCommerce](https://github.com/simplcommerce/SimplCommerce). A simple, cross platform, modularized ecommerce system built on .NET Core
+1. [ET](https://github.com/egametang/ET). Unity3D Client And C# Server Framework
 
 
 ## netstandard
@@ -1278,7 +1169,6 @@
 1. [tolua](https://github.com/topameng/tolua). The fastest unity lua binding solution
 1. [ZeroFormatter](https://github.com/neuecc/ZeroFormatter). Fastest C# Serializer and Infinitely Fast Deserializer for .NET, .NET Core and Unity.
 1. [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp). Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
-1. [Steamworks.NET](https://github.com/rlabrecque/Steamworks.NET). Steamworks wrapper for Unity / C#
 
 
 ## unity3d

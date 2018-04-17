@@ -1,5 +1,4 @@
 1. [activity](#activity)
-1. [android](#android)
 1. [android-application](#android-application)
 1. [android-architecture](#android-architecture)
 1. [android-book](#android-book)
@@ -18,6 +17,7 @@
 1. [barcode](#barcode)
 1. [bazel](#bazel)
 1. [cache](#cache)
+1. [camera](#camera)
 1. [concurrency](#concurrency)
 1. [cross-platform](#cross-platform)
 1. [custom-view](#custom-view)
@@ -45,6 +45,7 @@
 1. [interview](#interview)
 1. [interview-questions](#interview-questions)
 1. [ios](#ios)
+1. [javascript](#javascript)
 1. [jdbc](#jdbc)
 1. [kotlin](#kotlin)
 1. [kotlin-android](#kotlin-android)
@@ -99,90 +100,6 @@
 
 1. [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode). :fire: Android developers should collect the following utils(updating).
 1. [ARouter](https://github.com/alibaba/ARouter). An android router middleware that help app navigating to activities and custom services.
-
-
-## android
-
-1. [glide](https://github.com/bumptech/glide). An image loading and caching library for Android focused on smooth scrolling
-1. [lottie-android](https://github.com/airbnb/lottie-android). Render After Effects animations natively on Android and iOS, Web, and React Native
-1. [zxing](https://github.com/zxing/zxing). ZXing ("Zebra Crossing") barcode scanning library for Java, Android
-1. [AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode). :fire: Android developers should collect the following utils(updating).
-1. [jadx](https://github.com/skylot/jadx). Dex to Java decompiler
-1. [libgdx](https://github.com/libgdx/libgdx). Desktop/Android/HTML5/iOS Java game development framework
-1. [fastjson](https://github.com/alibaba/fastjson). :bullettrain_side: A fast JSON parser/generator for Java
-1. [material-dialogs](https://github.com/afollestad/material-dialogs). A beautiful, fluid, and customizable dialogs API.
-1. [BaseRecyclerViewAdapterHelper](https://github.com/CymChad/BaseRecyclerViewAdapterHelper). BRVAH:Powerful and flexible RecyclerAdapter
-1. [tinker](https://github.com/Tencent/tinker). Tinker is a hot-fix solution library for Android, it supports dex, library and resources update without reinstall apk.
-1. [Android-CleanArchitecture](https://github.com/android10/Android-CleanArchitecture). This is a sample app that is part of a series of blog posts I have written about how to architect an android application using Uncle Bob's clean architecture approach.
-1. [SmartRefreshLayout](https://github.com/scwang90/SmartRefreshLayout). 🔥下拉刷新、上拉加载、二级刷新、淘宝二楼、RefreshLayout、OverScroll，Android智能下拉刷新框架，支持越界回弹、越界拖动，具有极强的扩展性，集成了几十种炫酷的Header和 Footer。
-1. [ExoPlayer](https://github.com/google/ExoPlayer). An extensible media player for Android
-1. [CircleImageView](https://github.com/hdodenhof/CircleImageView). A circular ImageView for Android
-1. [realm-java](https://github.com/realm/realm-java). Realm is a mobile database: a replacement for SQLite & ORMs
-1. [AndroidViewAnimations](https://github.com/daimajia/AndroidViewAnimations). Cute view animation collection.
-1. [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer). The flexible, easy to use, all in one drawer library for your Android project.
-1. [logger](https://github.com/orhanobut/logger). ✔️ Simple, pretty and powerful logger for android
-1. [Android-ObservableScrollView](https://github.com/ksoichiro/Android-ObservableScrollView). Android library to observe scroll events on scrollable views.
-1. [recyclerview-animators](https://github.com/wasabeef/recyclerview-animators). An Android Animation library which easily add itemanimator to RecyclerView items.
-1. [BottomBar](https://github.com/roughike/BottomBar). (Deprecated) A custom view component that mimics the new Material Design Bottom Navigation pattern.
-1. [vlayout](https://github.com/alibaba/vlayout). Project vlayout is a powerfull LayoutManager extension for RecyclerView, it provides a group of layouts for RecyclerView. Make it able to handle a complicate situation when grid, list and other layouts in the same recyclerview. 
-1. [Luban](https://github.com/Curzibn/Luban). Luban(鲁班)—Image compression with efficiency very close to WeChat Moments/可能是最接近微信朋友圈的图片压缩算法
-1. [AVLoadingIndicatorView](https://github.com/81813780/AVLoadingIndicatorView). Nice loading animations for Android
-1. [MaterialViewPager](https://github.com/florent37/MaterialViewPager). A Material Design ViewPager easy to use library
-1. [AndroidInterview-Q-A](https://github.com/JackyAndroid/AndroidInterview-Q-A). The top Internet companies android interview questions and answers
-1. [Android_Data](https://github.com/Freelander/Android_Data). Some Android learning materials, hoping to help you learn Android development.
-1. [agera](https://github.com/google/agera). Reactive Programming for Android
-1. [PermissionsDispatcher](https://github.com/permissions-dispatcher/PermissionsDispatcher). Simple annotation-based API to handle runtime permissions.
-1. [uCrop](https://github.com/Yalantis/uCrop). Image Cropping Library for Android
-1. [Matisse](https://github.com/zhihu/Matisse). :fireworks: A well-designed local image and video selector for Android
-1. [Android-Bootstrap](https://github.com/Bearded-Hen/Android-Bootstrap). Bootstrap style widgets for Android, with Glyph Icons
-1. [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer). Android VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen
-1. [UltimateRecyclerView](https://github.com/cymcsg/UltimateRecyclerView). A RecyclerView(advanced and flexible version of ListView in Android) with refreshing,loading more,animation and many other features.
-1. [FileDownloader](https://github.com/lingochamp/FileDownloader). Multitask、MultiThread(MultiConnection)、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
-1. [Apktool](https://github.com/iBotPeaches/Apktool). A tool for reverse engineering Android apk files
-1. [RxPermissions](https://github.com/tbruyelle/RxPermissions). Android runtime permissions powered by RxJava2
-1. [android-gif-drawable](https://github.com/koral--/android-gif-drawable). Views and Drawable for displaying animated GIFs on Android
-1. [WeChatLuckyMoney](https://github.com/geeeeeeeeek/WeChatLuckyMoney). :money_with_wings: WeChat's lucky money helper (微信抢红包插件) by Zhongyi Tong. An Android app that helps you snatch red packets in WeChat groups. 
-1. [glide-transformations](https://github.com/wasabeef/glide-transformations). An Android transformation library providing a variety of image transformations for Glide.
-1. [atlas](https://github.com/alibaba/atlas). A powerful Android Dynamic Component Framework.
-1. [UltimateAndroidReference](https://github.com/aritraroy/UltimateAndroidReference). :rocket: Ultimate Android Reference - Your Road to Become a Better Android Developer
-1. [buck](https://github.com/facebook/buck). A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
-1. [hellocharts-android](https://github.com/lecho/hellocharts-android). Charts/graphs library for Android compatible with API 8+, several chart types with support for scaling, scrolling and animations
-1. [DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin). A plugin framework on android,Run any third-party apk without installation, modification or repackage
-1. [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer). 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。简书:
-1. [easypermissions](https://github.com/googlesamples/easypermissions). Simplify Android M system permissions
-1. [material](https://github.com/rey5137/material). A library to bring fully animated Material Design components to pre-Lolipop Android. 
-1. [ARouter](https://github.com/alibaba/ARouter). An android router middleware that help app navigating to activities and custom services.
-1. [StatusBarUtil](https://github.com/laobie/StatusBarUtil). A util for setting status bar style on Android App.
-1. [AndroidNote](https://github.com/GcsSloop/AndroidNote). 安卓学习笔记
-1. [SmarterStreaming](https://github.com/daniulive/SmarterStreaming). 大牛直播SDK，跨平台(windows/android/iOS)推送(rtmp)、直播播放器(rtmp/rtsp)，支持录像、导播、转发、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(通常1秒左右，低延迟模式下200~400ms)。
-1. [NumberProgressBar](https://github.com/daimajia/NumberProgressBar). A beautiful, slim Android ProgressBar.
-1. [android-classyshark](https://github.com/google/android-classyshark). Executables (apk, multi-dex, jar) browser for Android, Java and Kotlin
-1. [InfiniteCycleViewPager](https://github.com/Devlight/InfiniteCycleViewPager). Infinite cycle ViewPager with two-way orientation and interactive effect.
-1. [TakePhoto](https://github.com/crazycodeboy/TakePhoto). 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
-1. [QMUI_Android](https://github.com/QMUI/QMUI_Android). 提高 Android UI 开发效率的 UI 库
-1. [Side-Menu.Android](https://github.com/Yalantis/Side-Menu.Android). Side menu with some categories to choose.
-1. [MVPArms](https://github.com/JessYanCoding/MVPArms). A common architecture for Android applications developing based on MVP,integrates many open source projects( like Dagger2,Rxjava,Retrofit... ),to make your developing quicker and easier. 
-1. [Timber](https://github.com/naman14/Timber). Material Design Music Player
-1. [android-oss](https://github.com/kickstarter/android-oss). Kickstarter for Android. Bring new ideas to life, anywhere.
-1. [ZhihuDailyPurify](https://github.com/izzyleung/ZhihuDailyPurify). Purified version of Zhihu Daily - 更纯净的知乎日报
-1. [mosby](https://github.com/sockeqwe/mosby). A Model-View-Presenter / Model-View-Intent library for modern Android apps
-1. [cw-omnibus](https://github.com/commonsguy/cw-omnibus). Source code to omnibus edition of _The Busy Coder's Guide to Android Development_
-1. [android-job](https://github.com/evernote/android-job). Android library to handle jobs in the background.
-1. [material-calendarview](https://github.com/prolificinteractive/material-calendarview). A Material design back port of Android's CalendarView
-1. [Toasty](https://github.com/GrenderG/Toasty). The usual Toast, but with steroids 💪
-1. [BookReader](https://github.com/JustWayward/BookReader). :closed_book:  "任阅" 网络小说阅读器，追书推荐收藏、书籍/标签检索、模拟翻书的翻页效果、缓存书籍、日夜间模式、书签、txt/pdf/epub书籍阅读、Wifi传书~
-1. [Small](https://github.com/wequick/Small). A small framework to split app into small parts
-1. [FloatingActionButton](https://github.com/Clans/FloatingActionButton). Android Floating Action Button based on Material Design specification
-1. [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor). A transparent ui-block detection library for Android. (known as BlockCanary)
-1. [subsampling-scale-image-view](https://github.com/davemorrissey/subsampling-scale-image-view). Android library (AAR). Highly configurable, easily extendable deep zoom view for displaying huge images without loss of detail. Perfect for photo galleries, maps, building plans etc.
-1. [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database). A library for debugging android databases and shared preferences - Make Debugging Great Again
-1. [android-advancedrecyclerview](https://github.com/h6ah4i/android-advancedrecyclerview). RecyclerView extension library which provides advanced features. (ex. Google's Inbox app like swiping, Play Music app like drag and drop sorting)
-1. [robolectric](https://github.com/robolectric/robolectric). Android Unit Testing Framework
-1. [VirtualApp](https://github.com/asLody/VirtualApp). An open source Virtual Engine for Android
-1. [NavigationTabBar](https://github.com/Devlight/NavigationTabBar). Navigation tab bar with colorful interactions.
-1. [HTextView](https://github.com/hanks-zyh/HTextView). Animation effects to text, not really textview
-1. [Phoenix](https://github.com/Yalantis/Phoenix). Phoenix Pull-to-Refresh
-1. [dialogplus](https://github.com/orhanobut/dialogplus). Advanced dialog solution for android
 
 
 ## android-application
@@ -317,6 +234,12 @@
 1. [redisson](https://github.com/redisson/redisson). Redisson - distributed Java objects and services (Set, Multimap, SortedSet, Map, List, Queue, BlockingQueue, Deque, BlockingDeque, Semaphore, Lock, AtomicLong, Map Reduce, Publish / Subscribe, Bloom filter, Spring Cache, Executor service, Tomcat Session Manager, Scheduler service, JCache API) on top of Redis server. Rich Redis client
 
 
+## camera
+
+1. [react-native-camera](https://github.com/react-native-community/react-native-camera). A Camera component for React Native. Also supports barcode scanning!
+1. [TakePhoto](https://github.com/crazycodeboy/TakePhoto). 一款用于在Android设备上获取照片（拍照或从相册、文件中选择）、裁剪图片、压缩图片的开源工具库
+
+
 ## concurrency
 
 1. [vert.x](https://github.com/eclipse/vert.x). Vert.x is a tool-kit for building reactive applications on the JVM
@@ -388,7 +311,7 @@
 ## exoplayer
 
 1. [ExoPlayer](https://github.com/google/ExoPlayer). An extensible media player for Android
-1. [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer). 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。简书:
+1. [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer). 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。
 
 
 ## footer
@@ -485,6 +408,13 @@
 1. [buck](https://github.com/facebook/buck). A fast build system that encourages the creation of small, reusable modules over a variety of platforms and languages.
 1. [SmarterStreaming](https://github.com/daniulive/SmarterStreaming). 大牛直播SDK，跨平台(windows/android/iOS)推送(rtmp)、直播播放器(rtmp/rtsp)，支持录像、导播、转发、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(通常1秒左右，低延迟模式下200~400ms)。
 1. [Small](https://github.com/wequick/Small). A small framework to split app into small parts
+
+
+## javascript
+
+1. [OpenRefine](https://github.com/OpenRefine/OpenRefine). OpenRefine is a free, open source power tool for working with messy data and improving it
+1. [closure-compiler](https://github.com/google/closure-compiler). A JavaScript checker and optimizer.
+1. [antlr4](https://github.com/antlr/antlr4). ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 
 
 ## jdbc
@@ -622,7 +552,7 @@
 ## player
 
 1. [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer). Android VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen
-1. [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer). 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。简书:
+1. [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer). 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。
 1. [SmarterStreaming](https://github.com/daniulive/SmarterStreaming). 大牛直播SDK，跨平台(windows/android/iOS)推送(rtmp)、直播播放器(rtmp/rtsp)，支持录像、导播、转发、动态视频合成、实时快照、水印、音频混音、互动等，国内外为数不多不依赖开源框架，业界真正靠谱的超低延迟(通常1秒左右，低延迟模式下200~400ms)。
 
 
@@ -787,7 +717,7 @@
 ## video
 
 1. [JiaoZiVideoPlayer](https://github.com/lipangit/JiaoZiVideoPlayer). Android VideoPlayer MediaPlayer VideoView MediaView Float View And Fullscreen
-1. [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer). 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。简书:
+1. [GSYVideoPlayer](https://github.com/CarGuo/GSYVideoPlayer). 视频播放器（IJKplayer），HTTPS支持，支持弹幕，支持滤镜、水印、gif截图，片头广告、中间广告，多个同时播放，支持基本的拖动，声音、亮度调节，支持边播边缓存，支持视频本身自带rotation的旋转（90,270之类），重力旋转与手动旋转的同步支持，支持列表播放 ，直接添加控件为封面，列表全屏动画，视频加载速度，列表小窗口支持拖动，5.0的过场效果，调整比例，多分辨率切换，支持切换播放器，进度条小窗口预览，其他一些小动画效果，rtsp、concat、mpeg。
 
 
 ## viewpager

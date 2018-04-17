@@ -72,7 +72,6 @@
 1. [interview-questions](#interview-questions)
 1. [ios](#ios)
 1. [jasmine](#jasmine)
-1. [javascript](#javascript)
 1. [javascript-library](#javascript-library)
 1. [jest](#jest)
 1. [jquery](#jquery)
@@ -126,6 +125,7 @@
 1. [slideshow](#slideshow)
 1. [snap](#snap)
 1. [snippets](#snippets)
+1. [sort](#sort)
 1. [spreadsheet](#spreadsheet)
 1. [sql-editor](#sql-editor)
 1. [ssr](#ssr)
@@ -702,124 +702,6 @@
 1. [karma](https://github.com/karma-runner/karma). Spectacular Test Runner for JavaScript
 
 
-## javascript
-
-1. [freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp). The https://freeCodeCamp.org open source codebase and curriculum. Learn to code and help nonprofits.
-1. [react](https://github.com/facebook/react). A declarative, efficient, and flexible JavaScript library for building user interfaces.
-1. [vue](https://github.com/vuejs/vue). 🖖 A progressive, incrementally-adoptable JavaScript framework for building UI on the web.
-1. [javascript](https://github.com/airbnb/javascript). JavaScript Style Guide
-1. [node](https://github.com/nodejs/node). Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-1. [atom](https://github.com/atom/atom). :atom: The hackable text editor
-1. [three.js](https://github.com/mrdoob/three.js). JavaScript 3D library.
-1. [html5-boilerplate](https://github.com/h5bp/html5-boilerplate). A professional front-end template for building fast, robust, and adaptable web apps or sites.
-1. [webpack](https://github.com/webpack/webpack). A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows to load parts for the application on demand. Through "loaders," modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.
-1. [axios](https://github.com/axios/axios). Promise based HTTP client for the browser and node.js
-1. [meteor](https://github.com/meteor/meteor). Meteor, the JavaScript App Platform
-1. [express](https://github.com/expressjs/express). Fast, unopinionated, minimalist web framework for node.
-1. [Chart.js](https://github.com/chartjs/Chart.js). Simple HTML5 Charts using the <canvas> tag
-1. [material-ui](https://github.com/mui-org/material-ui). React components that implement Google's Material Design.
-1. [materialize](https://github.com/Dogfalo/materialize). Materialize, a CSS Framework based on Material Design
-1. [yarn](https://github.com/yarnpkg/yarn). 📦🐈 Fast, reliable, and secure dependency management.
-1. [lodash](https://github.com/lodash/lodash). A modern JavaScript utility library delivering modularity, performance, & extras.
-1. [free-programming-books-zh_CN](https://github.com/justjavac/free-programming-books-zh_CN). :books: 免费的计算机编程类中文书籍，欢迎投稿
-1. [babel](https://github.com/babel/babel). :tropical_fish: Babel is a compiler for writing next generation JavaScript.
-1. [Front-End-Checklist](https://github.com/thedaviddias/Front-End-Checklist). 🗂 The perfect Front-End Checklist for modern websites and meticulous developers
-1. [incubator-echarts](https://github.com/apache/incubator-echarts). A powerful, interactive charting and visualization library for browser
-1. [Ghost](https://github.com/TryGhost/Ghost). The platform for professional publishers
-1. [nylas-mail](https://github.com/nylas/nylas-mail). :love_letter: An extensible desktop mail app built on the modern web.  Forks welcome!
-1. [async](https://github.com/caolan/async). Async utilities for node and the browser
-1. [prettier](https://github.com/prettier/prettier). Prettier is an opinionated code formatter.
-1. [fullPage.js](https://github.com/alvarotrigo/fullPage.js). fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
-1. [serverless](https://github.com/serverless/serverless). Serverless Framework – Build web, mobile and IoT applications with serverless architectures using AWS Lambda, Azure Functions, Google CloudFunctions & more! – 
-1. [storybook](https://github.com/storybooks/storybook). Interactive UI component dev & test: React, React Native, Vue, Angular
-1. [Modernizr](https://github.com/Modernizr/Modernizr). Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
-1. [select2](https://github.com/select2/select2). Select2 is a jQuery based replacement for select boxes. It supports searching, remote data sets, and infinite scrolling of results.
-1. [hyper](https://github.com/zeit/hyper). A terminal built on web technologies
-1. [clipboard.js](https://github.com/zenorocha/clipboard.js). :scissors: Modern copy to clipboard. No Flash. Just 3kb gzipped :clipboard:
-1. [hexo](https://github.com/hexojs/hexo). A fast, simple & powerful blog framework, powered by Node.js.
-1. [parcel](https://github.com/parcel-bundler/parcel). 📦🚀 Blazing fast, zero configuration web application bundler
-1. [Leaflet](https://github.com/Leaflet/Leaflet).  :leaves: JavaScript library for mobile-friendly interactive maps
-1. [phaser](https://github.com/photonstorm/phaser). Phaser is a fun, free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
-1. [video.js](https://github.com/videojs/video.js). Video.js - open source HTML5 & Flash video player
-1. [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code). Curated collection of useful Javascript snippets that you can understand in 30 seconds or less.
-1. [ember.js](https://github.com/emberjs/ember.js). Ember.js - A JavaScript framework for creating ambitious web applications
-1. [fetch](https://github.com/github/fetch). A window.fetch JavaScript polyfill.
-1. [pixi.js](https://github.com/pixijs/pixi.js). The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
-1. [clean-code-javascript](https://github.com/ryanmcdermott/clean-code-javascript). :bathtub: Clean Code concepts adapted for JavaScript
-1. [dragula](https://github.com/bevacqua/dragula). :ok_hand: Drag and drop so simple it hurts
-1. [standard](https://github.com/standard/standard). 🌟 JavaScript Style Guide, with linter & automatic code fixer
-1. [react-starter-kit](https://github.com/kriasoft/react-starter-kit). React Starter Kit — isomorphic web app boilerplate (Node.js, Express, GraphQL, React.js, Babel, PostCSS, Webpack, Browsersync)
-1. [Rocket.Chat](https://github.com/RocketChat/Rocket.Chat). Have your own Slack like online chat, built with Meteor.
-1. [project-guidelines](https://github.com/elsewhencode/project-guidelines). A set of best practices for JavaScript projects
-1. [js-stack-from-scratch](https://github.com/verekia/js-stack-from-scratch). 🛠️⚡ Step-by-step tutorial to build a modern JavaScript stack.
-1. [jest](https://github.com/facebook/jest). 🃏 Delightful JavaScript Testing.
-1. [webtorrent](https://github.com/webtorrent/webtorrent). ⚡️ Streaming torrent client for the web
-1. [bower](https://github.com/bower/bower). A package manager for the web
-1. [mocha](https://github.com/mochajs/mocha). ☕️ simple, flexible, fun javascript test framework for node.js & the browser
-1. [scrollreveal](https://github.com/jlmakes/scrollreveal). Easy scroll animations for web and mobile browsers.
-1. [mobx](https://github.com/mobxjs/mobx). Simple, scalable state management.
-1. [sequelize](https://github.com/sequelize/sequelize). An easy-to-use multi SQL dialect ORM for Node.js
-1. [vuex](https://github.com/vuejs/vuex). 🗃️ Centralized State Management for Vue.js.
-1. [faker.js](https://github.com/Marak/faker.js). generate massive amounts of fake data in Node.js and the browser
-1. [dropzone](https://github.com/enyo/dropzone). Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-1. [ava](https://github.com/avajs/ava). :rocket: Futuristic JavaScript test runner
-1. [mostly-adequate-guide](https://github.com/MostlyAdequate/mostly-adequate-guide). Mostly adequate guide to FP (in javascript)
-1. [front-end-interview-handbook](https://github.com/yangshun/front-end-interview-handbook). 🕸 Almost complete answers to "Front-end Job Interview Questions" which you can use to interview potential candidates, test yourself or completely ignore
-1. [mojs](https://github.com/legomushroom/mojs). motion graphics toolbelt for the web
-1. [riot](https://github.com/riot/riot). Simple and elegant component-based UI library
-1. [feather](https://github.com/feathericons/feather). Simply beautiful open source icons
-1. [normalizr](https://github.com/paularmstrong/normalizr). Normalizes nested JSON according to a schema
-1. [wekan](https://github.com/wekan/wekan). The open-source Trello-like kanban (built with Meteor)
-1. [layui](https://github.com/sentsin/layui). 采用自身模块规范编写的前端 UI 框架，遵循原生 HTML/CSS/JS 的书写形式，极低门槛，拿来即用。
-1. [keystone](https://github.com/keystonejs/keystone). node.js cms and web app framework
-1. [uBlock](https://github.com/gorhill/uBlock). uBlock Origin - An efficient blocker for Chromium and Firefox. Fast and lean.
-1. [node-lessons](https://github.com/alsotang/node-lessons). :closed_book:《Node.js 包教不包会》 by alsotang
-1. [medium-editor](https://github.com/yabwe/medium-editor). Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-1. [browserify](https://github.com/browserify/browserify). browser-side require() the node.js way
-1. [mysql](https://github.com/mysqljs/mysql). A pure node.js JavaScript Client implementing the MySql protocol.
-1. [localForage](https://github.com/localForage/localForage). 💾 Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
-1. [ramda](https://github.com/ramda/ramda). :ram: Practical functional Javascript
-1. [prepack](https://github.com/facebook/prepack). Prepack is a partial evaluator for JavaScript. Prepack rewrites a JavaScript bundle, resulting in JavaScript code that executes more efficiently.
-1. [amazeui](https://github.com/amazeui/amazeui). Amaze UI, a mobile-first and modular front-end framework.
-1. [stackedit](https://github.com/benweet/stackedit). In-browser Markdown editor
-1. [html2canvas](https://github.com/niklasvh/html2canvas). Screenshots with JavaScript
-1. [wtfjs](https://github.com/denysdovhan/wtfjs). A list of funny and tricky JavaScript examples
-1. [Snap.svg](https://github.com/adobe-webplatform/Snap.svg). The JavaScript library for modern SVG graphics.
-1. [store.js](https://github.com/marcuswestin/store.js). Cross-browser storage for all use cases, used across the web.
-1. [eslint](https://github.com/eslint/eslint). A fully pluggable tool for identifying and reporting on patterns in JavaScript
-1. [mean](https://github.com/linnovate/mean). The MEAN stack uses Mongo, Express, Angular(4) and Node for simple and scalable fullstack js applications
-1. [plyr](https://github.com/sampotts/plyr). A simple HTML5, YouTube and Vimeo player
-1. [charts](https://github.com/frappe/charts). Simple, responsive, modern SVG Charts with zero dependencies
-1. [bootstrap-datepicker](https://github.com/uxsolutions/bootstrap-datepicker). A datepicker for twitter bootstrap (@twbs)
-1. [draggable](https://github.com/Shopify/draggable). The JavaScript Drag & Drop library your grandparents warned you about.
-1. [chartist-js](https://github.com/gionkunz/chartist-js). Simple responsive charts
-1. [N-blog](https://github.com/nswbmw/N-blog). 《一起学 Node.js》
-1. [framework](https://github.com/aurelia/framework). The aurelia framework brings together all the required core aurelia libraries into a ready-to-go application-building platform.
-1. [jquery-ui](https://github.com/jquery/jquery-ui). The official jQuery user interface library.
-1. [smartcrop.js](https://github.com/jwagner/smartcrop.js). Content aware image cropping
-1. [pouchdb](https://github.com/pouchdb/pouchdb). :koala: - PouchDB is a pocket-sized database.
-1. [uppy](https://github.com/transloadit/uppy). The next open source file uploader for web browsers :dog: 
-1. [front-end-guide](https://github.com/grab/front-end-guide). 📚 Study guide and introduction to the modern front end stack.
-1. [es6-cheatsheet](https://github.com/DrkSephy/es6-cheatsheet). ES2015 [ES6] cheatsheet containing tips, tricks, best practices and code snippets
-1. [history.js](https://github.com/browserstate/history.js). History.js gracefully supports the HTML5 History/State APIs (pushState, replaceState, onPopState) in all browsers. Including continued support for data, titles, replaceState. Supports jQuery, MooTools and Prototype.  For HTML5 browsers this means that you can modify the URL directly, without needing to use hashes anymore. For HTML4 browsers it will revert back to using the old onhashchange functionality.
-1. [validator.js](https://github.com/chriso/validator.js). String validation
-1. [wp-calypso](https://github.com/Automattic/wp-calypso). The JavaScript and API powered WordPress.com
-1. [carbon](https://github.com/dawnlabs/carbon). 🎨 Create and share beautiful images of your source code
-1. [pell](https://github.com/jaredreich/pell). 📝 the simplest and smallest WYSIWYG text editor for web, with no dependencies
-1. [js-xlsx](https://github.com/SheetJS/js-xlsx). :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
-1. [vuetify](https://github.com/vuetifyjs/vuetify). Material Component Framework for Vue.js 2
-1. [howler.js](https://github.com/goldfire/howler.js). Javascript audio library for the modern web.
-1. [date-fns](https://github.com/date-fns/date-fns). ⏳ Modern JavaScript date utility library ⌛️
-1. [handsontable](https://github.com/handsontable/handsontable). Handsontable Community Edition - JavaScript/HTML5 Spreadsheet Component for Web Apps. Available for Angular, React, Vue and Polymer.
-1. [angular-starter](https://github.com/gdi2290/angular-starter). :tada: An Angular Starter kit featuring Angular (Router, Http, Forms, Services, Tests, E2E, Dev/Prod, HMR, Async/Lazy Routes, AoT via ngc), Karma, Protractor, Jasmine, Istanbul, TypeScript, TsLint, Codelyzer, Hot Module Replacement, @types, and Webpack by @TipeIO
-1. [karma](https://github.com/karma-runner/karma). Spectacular Test Runner for JavaScript
-1. [vue-router](https://github.com/vuejs/vue-router). 🚦 The official router for Vue.js.
-1. [svgo](https://github.com/svg/svgo). :tiger: Nodejs-based tool for optimizing SVG vector graphics files
-1. [create-react-native-app](https://github.com/react-community/create-react-native-app). Create a React Native app on any OS with no build config.
-1. [js-cookie](https://github.com/js-cookie/js-cookie). A simple, lightweight JavaScript API for handling browser cookies
-1. [johnny-five](https://github.com/rwaldron/johnny-five). JavaScript Robotics and IoT programming framework, developed at Bocoup.
-
-
 ## javascript-library
 
 1. [Modernizr](https://github.com/Modernizr/Modernizr). Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user’s browser.
@@ -979,8 +861,8 @@
 ## node
 
 1. [node](https://github.com/nodejs/node). Node.js JavaScript runtime :sparkles::turtle::rocket::sparkles:
-1. [pm2](https://github.com/Unitech/pm2). Node.js Production Process Manager with a built-in Load Balancer.
 1. [next.js](https://github.com/zeit/next.js). Framework for server-rendered or statically-exported React apps
+1. [pm2](https://github.com/Unitech/pm2). Node.js Production Process Manager with a built-in Load Balancer.
 1. [nodemon](https://github.com/remy/nodemon). Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 1. [ava](https://github.com/avajs/ava). :rocket: Futuristic JavaScript test runner
 1. [mean](https://github.com/linnovate/mean). The MEAN stack uses Mongo, Express, Angular(4) and Node for simple and scalable fullstack js applications
@@ -1233,6 +1115,12 @@
 1. [carbon](https://github.com/dawnlabs/carbon). 🎨 Create and share beautiful images of your source code
 
 
+## sort
+
+1. [Sortable](https://github.com/RubaXa/Sortable). Sortable — is a JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React, Polymer, Knockout and any CSS library, e.g. Bootstrap.
+1. [list.js](https://github.com/javve/list.js). The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML.
+
+
 ## spreadsheet
 
 1. [js-xlsx](https://github.com/SheetJS/js-xlsx). :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
@@ -1297,8 +1185,8 @@
 ## svg
 
 1. [three.js](https://github.com/mrdoob/three.js). JavaScript 3D library.
-1. [feather](https://github.com/feathericons/feather). Simply beautiful open source icons
 1. [popmotion](https://github.com/Popmotion/popmotion). A functional, reactive animation library.
+1. [feather](https://github.com/feathericons/feather). Simply beautiful open source icons
 1. [Snap.svg](https://github.com/adobe-webplatform/Snap.svg). The JavaScript library for modern SVG graphics.
 1. [charts](https://github.com/frappe/charts). Simple, responsive, modern SVG Charts with zero dependencies
 1. [chartist-js](https://github.com/gionkunz/chartist-js). Simple responsive charts
@@ -1409,8 +1297,8 @@
 1. [storybook](https://github.com/storybooks/storybook). Interactive UI component dev & test: React, React Native, Vue, Angular
 1. [vuex](https://github.com/vuejs/vuex). 🗃️ Centralized State Management for Vue.js.
 1. [nuxt.js](https://github.com/nuxt/nuxt.js). The Vue.js Developers Framework
-1. [js-xlsx](https://github.com/SheetJS/js-xlsx). :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
 1. [vuetify](https://github.com/vuetifyjs/vuetify). Material Component Framework for Vue.js 2
+1. [js-xlsx](https://github.com/SheetJS/js-xlsx). :green_book: SheetJS Community Edition -- Spreadsheet Parser and Writer
 1. [vue-router](https://github.com/vuejs/vue-router). 🚦 The official router for Vue.js.
 
 
