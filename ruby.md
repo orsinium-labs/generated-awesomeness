@@ -38,6 +38,8 @@
 1. [react](#react)
 1. [redis](#redis)
 1. [rss](#rss)
+1. [rubygem](#rubygem)
+1. [rubygems](#rubygems)
 1. [security](#security)
 1. [server](#server)
 1. [smtp](#smtp)
@@ -172,7 +174,7 @@
 
 ## github-api
 
-1. [github-changelog-generator](https://github.com/skywinder/github-changelog-generator). Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
+1. [github-changelog-generator](https://github.com/github-changelog-generator/github-changelog-generator). Automatically generate change log from your tags, issues, labels and pull requests on GitHub.
 1. [octokit.rb](https://github.com/octokit/octokit.rb). Ruby toolkit for the GitHub API
 1. [octobox](https://github.com/octobox/octobox). :postbox: Take back control of your GitHub Notifications
 1. [gitrob](https://github.com/michenriksen/gitrob). Reconnaissance tool for GitHub organizations
@@ -318,8 +320,8 @@
 1. [timecop](https://github.com/travisjeffery/timecop). A gem providing "time travel", "time freezing", and "time acceleration" capabilities, making it simple to test time-dependent code. It provides a unified method to mock Time.now, Date.today, and DateTime.now in a single call.
 1. [public_activity](https://github.com/chaps-io/public_activity). Easy activity tracking for models - similar to Github's Public Activity
 1. [sorcery](https://github.com/NoamB/sorcery). Magical authentication for Rails 3 & 4
-1. [client_side_validations](https://github.com/DavyJonesLocker/client_side_validations). Client Side Validations made easy for Ruby on Rails
 1. [comfortable-mexican-sofa](https://github.com/comfy/comfortable-mexican-sofa). ComfortableMexicanSofa is a powerful Ruby on Rails 5.2+ CMS (Content Management System) Engine
+1. [client_side_validations](https://github.com/DavyJonesLocker/client_side_validations). Client Side Validations made easy for Ruby on Rails
 1. [octobox](https://github.com/octobox/octobox). :postbox: Take back control of your GitHub Notifications
 1. [shoulda-matchers](https://github.com/thoughtbot/shoulda-matchers). Collection of testing matchers extracted from Shoulda
 1. [elasticsearch-rails](https://github.com/elastic/elasticsearch-rails). Elasticsearch integrations for ActiveModel/Record and Ruby on Rails
@@ -346,6 +348,21 @@
 
 1. [huginn](https://github.com/huginn/huginn). Create agents that monitor and act on your behalf.  Your agents are standing by!
 1. [stringer](https://github.com/swanson/stringer). A self-hosted, anti-social RSS reader.
+
+
+## rubygem
+
+1. [scientist](https://github.com/github/scientist). :microscope: A Ruby library for carefully refactoring critical paths.
+1. [gemoji](https://github.com/github/gemoji). Emoji images and names.
+1. [clearance](https://github.com/thoughtbot/clearance). Rails authentication with email & password.
+
+
+## rubygems
+
+1. [factory_bot](https://github.com/thoughtbot/factory_bot). A library for setting up Ruby objects as test data.
+1. [mailcatcher](https://github.com/sj26/mailcatcher). Catches mail and serves it through a dream.
+1. [bundler](https://github.com/bundler/bundler). Manage your Ruby application's gem dependencies
+1. [rubygems](https://github.com/rubygems/rubygems). Library packaging and distribution for Ruby.
 
 
 ## security
