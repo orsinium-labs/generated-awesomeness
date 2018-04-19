@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   viewBox="-178.3 -167.1 1000 800"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo.svg"
+   width="1000"
+   height="800"
+   inkscape:export-filename="/home/gram/go/src/github.com/orsinium/awesome-generator/generated/logo.png"
+   inkscape:export-xdpi="60"
+   inkscape:export-ydpi="60">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1920"
+     inkscape:window-height="994"
+     id="namedview8"
+     showgrid="true"
+     showguides="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="false"
+     inkscape:snap-global="true"
+     inkscape:zoom="0.33714286"
+     inkscape:cx="-440.36952"
+     inkscape:cy="524.55377"
+     inkscape:window-x="0"
+     inkscape:window-y="26"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg2">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3358" />
+  </sodipodi:namedview>
+  <path
+     d="m 611.7,89.199998 -151.28206,-137.6 -21.28034,23 126.06838,114.6 -496.911111,0 126.068371,-114.7 -21.28034,-23 -151.282049,137.7 -0.100854,0 0,90.699992 c 0,41 39.837607,74.4 88.752133,74.4 l 93.2906,0 c 48.91453,0 88.75213,-33.4 88.75213,-74.4 l 0,-59.6 48.41026,0 0,59.6 c 0,41 39.83761,74.4 88.75215,74.4 l 93.29058,0 c 48.91454,0 88.75215,-33.4 88.75215,-74.4 l 0,-90.699992 z"
+     id="path6"
+     inkscape:connector-curvature="0"
+     style="fill:#fc60a8" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:31.06128883px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#22002b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="16.606129"
+     y="391.20627"
+     id="text3340"
+     sodipodi:linespacing="125%"
+     transform="scale(1.1301201,0.88486172)"><tspan
+       sodipodi:role="line"
+       id="tspan3342"
+       x="16.606129"
+       y="391.20627"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:46.59193039px;font-family:BravoSC;-inkscape-font-specification:BravoSC;fill:#22002b" /><tspan
+       sodipodi:role="line"
+       x="16.606129"
+       y="571.84113"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:139.77580261px;font-family:BravoSC;-inkscape-font-specification:BravoSC;fill:#22002b"
+       id="tspan3350">awesomeness</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:36.66767502px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#22002b;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+     x="11.503502"
+     y="506.54251"
+     id="text3354"
+     sodipodi:linespacing="125%"
+     transform="scale(1.3341006,0.74956867)"><tspan
+       sodipodi:role="line"
+       id="tspan3356"
+       x="11.503502"
+       y="506.54251"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:165.00456238px;font-family:BravoSC;-inkscape-font-specification:BravoSC;fill:#22002b">generated</tspan></text>
+</svg>
